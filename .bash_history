@@ -68,3 +68,9 @@ sudo su
 git log
 sudo du
 sudo su
+git pull
+sudo su
+touch file79
+ls
+git add file79
+sudo su
