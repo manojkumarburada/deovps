@@ -74,3 +74,5 @@ touch file79
 ls
 git add file79
 sudo su
+clear
+sudo su
